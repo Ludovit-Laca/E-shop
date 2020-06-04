@@ -1,6 +1,8 @@
 # E-shop
  
 Vytvorte e-shop ponúkajúci a predávajúci ľubovoľný tovar (33 bodov).
+Projekt v rámci predmetu Objektové technológie 2018.
+Made by Ľudovít Laca.
 
 - Ako základné požiadavky použite tie, ktoré sú vymenované v prednáške.
 - Ako východiskový princíp použite ten, ktorý je naznačený v prednáške, ale:
